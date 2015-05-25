@@ -1,7 +1,7 @@
 require 'minitest/spec'
 require 'minitest/autorun'
 
-require 'exercises'
+require_relative 'exercises'
 
 
 describe 'exercises' do
