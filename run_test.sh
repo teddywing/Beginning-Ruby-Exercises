@@ -7,7 +7,7 @@ exercises=(
 	/#string_plus/
 	/#join_reverse_array/
 	/#array_tack_join/
-	/Table/
+	/Table1/
 	/Table2#height_times2/
 )
 

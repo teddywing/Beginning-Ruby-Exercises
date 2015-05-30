@@ -55,7 +55,7 @@ apple cat'
     end
   end
   
-  describe 'Table' do
+  describe 'Table1' do
     it 'must be initialised with a decimal height' do
       t = Table.new(50.4)
       t.must_be_instance_of Table
