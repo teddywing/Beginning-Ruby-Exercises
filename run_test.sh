@@ -1,14 +1,14 @@
 #!/bin/sh
 
-exercises=( \
-	/#divide/ \
-	/#hello5/ \
-	/#hello_x_times/ \
-	/#string_plus/ \
-	/#join_reverse_array/ \
-	/#array_tack_join/ \
-	/Table/ \
-	/Table2#height_times2/ \
+exercises=(
+	/#divide/
+	/#hello5/
+	/#hello_x_times/
+	/#string_plus/
+	/#join_reverse_array/
+	/#array_tack_join/
+	/Table/
+	/Table2#height_times2/
 )
 
 if [ $# -lt 1 ]; then
